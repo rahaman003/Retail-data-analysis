@@ -1,4 +1,4 @@
-Business Context
+cnjfjfh Business Context
 
 The case study simulates a retail business environment where customer transactions are recorded across different store types and product categories.
 

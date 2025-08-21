@@ -10,7 +10,7 @@ The main goal is to analyze:
 
 •	Store performance (which store type generates the most sales).
 
-	Ultimately, the business wants insights that can help in:
+Ultimately, the business wants insights that can help in:
 
 •	Identifying profitable customers (e.g., frequent buyers, high-spending age groups).
 
@@ -25,7 +25,7 @@ Available Data
 
 Based on the SQL queries, three main tables are being used:
 
-	Customer1
+Customer1
    
 •	Attributes: customer_id, DOB, Gender, City_code, etc.
 
@@ -33,7 +33,7 @@ Based on the SQL queries, three main tables are being used:
 
 •	Used for segmentation (age, gender, city distribution).
 
-	prod_Cat
+prod_Cat
    
 •	Attributes: prod_cat_code, prod_subcat_code, prod_cat, prod_subcat.
 
@@ -41,7 +41,7 @@ Based on the SQL queries, three main tables are being used:
 
 •	Useful for revenue contribution analysis.
 
-	Transaction
+Transaction
    
 •	Attributes: transaction_id, cust_id, tran_date, store_type, prod_cat_code, prod_subcat_code, Qty, total_amt.
 

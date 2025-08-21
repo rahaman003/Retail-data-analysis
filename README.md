@@ -2,7 +2,7 @@ Business Context
 
 The case study simulates a retail business environment where customer transactions are recorded across different store types and product categories.
 
-	The main goal is to analyze:
+The main goal is to analyze:
 
 •	Customer behavior (demographics, transactions, returns, frequency of purchase).
 
